@@ -1,0 +1,6 @@
+Hello,
+
+Please find the detailed architecture explanation [here](https://github.com/pravinraj-marimuthu/Hydren-AWS-Infra-architecture/blob/main/architecture.md) and a diagram over [here](https://github.com/pravinraj-marimuthu/Hydren-AWS-Infra-architecture/blob/main/architecute_diagram.png)
+
+Thanks,
+Pravinraj Marimuthu
