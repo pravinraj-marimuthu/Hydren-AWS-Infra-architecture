@@ -39,6 +39,7 @@ Our desired architecture will be as follows:
 - In our case,
     - For frontend (React), we will only need a very little resource **0.25-1 vCPU** and **1 GB memory**.
     - For backend (Flask), we can set a moderate value **0.5 to 2 vCPU and 2 GB memory**.
+    - These are sample performance values considering a small scale applications. After testing, we can decide and set a default value for both frontend and backend.
     - The good thing with Fargate is, we can enable auto-scaling meaning we can actually increase the infrastructure compute based on the load it receives
     - An example is as follows:
         - our frontend does not need auto scaling as it only serves static contents
