@@ -54,3 +54,5 @@ CI/CD and Future Considerations:
 - Using Control Tower can lead to way too much of billing. For bootstrapping and to eliminate the risk of security and governance, we can consider AWS Control Tower and all the approach described above.
 - As we stabilize ourselves through this architecture, later some period, we will gain confidence about how everything works, how control tower manages the accounts.
 - We can then continously improve the infrastructure provisioning and application deployments and if possible, we can look for ways to save lot of money from billing using the automation, free of open source secure tools.
+
+Thank you, Pravinraj Marimuthu
